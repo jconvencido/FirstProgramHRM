@@ -1,0 +1,16 @@
+C:\Users\Full Scale\source\repos\FirstProgramHRM\bin\Debug\net5.0\FirstProgramHRM.exe
+C:\Users\Full Scale\source\repos\FirstProgramHRM\bin\Debug\net5.0\FirstProgramHRM.deps.json
+C:\Users\Full Scale\source\repos\FirstProgramHRM\bin\Debug\net5.0\FirstProgramHRM.runtimeconfig.json
+C:\Users\Full Scale\source\repos\FirstProgramHRM\bin\Debug\net5.0\FirstProgramHRM.runtimeconfig.dev.json
+C:\Users\Full Scale\source\repos\FirstProgramHRM\bin\Debug\net5.0\FirstProgramHRM.dll
+C:\Users\Full Scale\source\repos\FirstProgramHRM\bin\Debug\net5.0\ref\FirstProgramHRM.dll
+C:\Users\Full Scale\source\repos\FirstProgramHRM\bin\Debug\net5.0\FirstProgramHRM.pdb
+C:\Users\Full Scale\source\repos\FirstProgramHRM\obj\Debug\net5.0\FirstProgramHRM.csproj.AssemblyReference.cache
+C:\Users\Full Scale\source\repos\FirstProgramHRM\obj\Debug\net5.0\FirstProgramHRM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Full Scale\source\repos\FirstProgramHRM\obj\Debug\net5.0\FirstProgramHRM.AssemblyInfoInputs.cache
+C:\Users\Full Scale\source\repos\FirstProgramHRM\obj\Debug\net5.0\FirstProgramHRM.AssemblyInfo.cs
+C:\Users\Full Scale\source\repos\FirstProgramHRM\obj\Debug\net5.0\FirstProgramHRM.csproj.CoreCompileInputs.cache
+C:\Users\Full Scale\source\repos\FirstProgramHRM\obj\Debug\net5.0\FirstProgramHRM.dll
+C:\Users\Full Scale\source\repos\FirstProgramHRM\obj\Debug\net5.0\ref\FirstProgramHRM.dll
+C:\Users\Full Scale\source\repos\FirstProgramHRM\obj\Debug\net5.0\FirstProgramHRM.pdb
+C:\Users\Full Scale\source\repos\FirstProgramHRM\obj\Debug\net5.0\FirstProgramHRM.genruntimeconfig.cache
